@@ -1,0 +1,17 @@
+/**
+ * Basic typography style for copy text
+ */
+body {
+  color: $main-color-text;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 1rem;
+  height: 100%;
+  background: $main-blue-footer;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+}
+
